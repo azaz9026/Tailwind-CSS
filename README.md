@@ -61,4 +61,4 @@ Created by Your Name
 javascript
 Copy code
 
-Remember to replace the placeholders (`your-username`, `your-demo-link.co`, `Y
+Remember to replace the placeholders (`azaz9026`, `https://tailwind-css-blond.vercel.app/`, `Y
